@@ -114,4 +114,4 @@ college-lost-found-system/
 ---
 
 ## 🏫 Developed for
-Vidyavardhaka College of Engineering— Student Project
+Vidyavardhaka College of Engineering - Student Project
